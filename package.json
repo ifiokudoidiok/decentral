@@ -1,0 +1,19 @@
+{
+  "name": "decentral",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ifiok",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "supertest": "^6.3.1"
+  },
+  "dependencies": {
+    "chai": "^4.3.7"
+  }
+}
