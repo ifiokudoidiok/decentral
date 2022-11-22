@@ -2,6 +2,9 @@
 - `yarn`
 - `yarn test`
 
+# Video explanation 
+[video link](https://www.loom.com/share/dd5a0b2c568a4914b0290f873068a294)
+
 ## Synopsis
 This take-home assignment is all about unit testing.
 
