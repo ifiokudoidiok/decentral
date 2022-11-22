@@ -1,5 +1,10 @@
-# Test function
+# How to setup on local machine and test
+The assumption is that whoever  is running this program is familiar with `NPM` and `Yarn`, if not, please pause and do a quick research on these package management tools
+
+## To install dependencies
 - `yarn`
+
+## To run the tests
 - `yarn test`
 
 # Video explanation 
