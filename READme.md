@@ -1,6 +1,6 @@
 # Test function
-`yarn`
-`yarn test`
+- `yarn`
+- `yarn test`
 
 ## Synopsis
 This take-home assignment is all about unit testing.
